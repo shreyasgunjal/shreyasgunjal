@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shreyas Ramdas Gunjal
-- ✨ Bachelor Of Engineering in Electronic & Telecommunication at PCCOE&R(SPPU), Pune
+- 👋 Hi, I’m **Shreyas Ramdas Gunjal**
+- ✨ **Bachelor Of Engineering** in *Electronic & Telecommunication* at PCCOE&R(**SPPU**), Pune
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me shreyas.gunjal.sg@gmail.com
 
