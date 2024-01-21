@@ -1,8 +1,6 @@
 # Hello, I'm Shreyas Ramdas Gunjal! 👋
 
-![shreyasg](https://github.com/shreyasgunjal/shreyasgunjal/assets/157288244/f397be8c-a7d8-4aed-93f7-44f8874af09b)
-
-
+<p align="center"><img src="https://github.com/shreyasgunjal/shreyasgunjal/assets/157288244/f397be8c-a7d8-4aed-93f7-44f8874af09b" width = 200 height=200 /> </p>
 
 ## About Me
 - 🎓 **Bachelor Of Engineering** in *Electronic & Telecommunication* at PCCOE&R(**SPPU**), Pune
