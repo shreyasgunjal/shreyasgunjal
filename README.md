@@ -1,5 +1,7 @@
 # Hello, I'm Shreyas Ramdas Gunjal! 👋
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ## About Me
 - 🎓 **Bachelor Of Engineering** in *Electronic & Telecommunication* at PCCOE&R(**SPPU**), Pune
 - 💼 Currently exploring the world of Full Stack Development
