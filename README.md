@@ -11,8 +11,8 @@
 
 
 ## Skills
-- 💻 Programming Languages: Java, Python, JavaScript
-- 🌐 Web Technologies: HTML, CSS, React, Node.js
+- 💻 Programming Languages: Java, JavaScript, C
+- 🌐 Web Technologies: HTML, CSS, React.js
 - 🛠️ Tools & Frameworks: Git, VSCode
 - 📚 Familiar with databases: MySQL
 - ☁️ Cloud Platforms: Azure
