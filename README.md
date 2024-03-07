@@ -13,7 +13,7 @@
 ## Skills
 - 💻 Programming Languages: Java, JavaScript, C
 - 🌐 Web Technologies: HTML, CSS, React.js
-- 🛠️ Tools & Frameworks: Git, GitHub, VSCode, Eclipse, SpringBoot, Postman
+- 🛠️ Tools & Frameworks: Git, GitHub, VSCode, Eclipse, SpringBoot, JUnit5, Postman
 - 📚 Familiar with databases: MySQL
 - ☁️ Cloud Platforms: Azure
 
